@@ -1,0 +1,21 @@
+{
+  "name": "botgeso",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [
+    "botgeso"
+  ],
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
